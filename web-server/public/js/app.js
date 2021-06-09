@@ -3,7 +3,7 @@
 
 console.log("clientside js file has loaded") 
 
-
+ 
 
 
 const weatherForm = document.querySelector('form')
